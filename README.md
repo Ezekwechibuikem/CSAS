@@ -46,7 +46,7 @@ This project was developed by a dedicated team of four developers who specialize
 - **Git & GitHub**
 
 ## 📁 Project Structure
-
+## Structure
 C:.
 │   index.html
 │   README.md
